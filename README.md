@@ -1,11 +1,13 @@
 # buffer
 
-## 🚨 IMPORTANT 🚨
-Please do not share this repository with anyone who is not a cs33 TA. 
+### Look in BufferHandout.pdf for the assignment.
 
-## Repo Organization
-* solution - TA solution code
-* stencil - for stencil to be released to students
+## Prerequisites:
+- Basic understanding of C
+- Basic understanding of Assembly Language
+- GDB
 
-Happy course dev-ing 🎉 
-Please reach out to the HTAs if any files are missing.
+## Resources:
+#### Buffer Overflow
+  - BufferExplanation.pdf
+  - [BufferOverflow-Computerphile](https://www.youtube.com/watch?v=1S0aBV-Waeo&t=884s)
